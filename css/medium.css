@@ -1,0 +1,38 @@
+* {
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'PT Serif', serif;
+    line-height: 1;
+    color: #292929;
+    
+}
+ 
+
+* a {
+    color:#292929;
+    text-decoration: none;
+}
+
+h1 {
+    font-size:6rem;
+}
+
+.bg-yellow {
+    background-color: #FFC017
+}
+
+.border-bm-dark{
+    border-bottom:solid 1px #414141;
+}
+.border-shadow {
+    box-shadow: 0px 0px 3px 0px rgba(0,0,0,0.75);
+    border-radius: 3px;
+}
+
+.item-text-info{
+    color: #757575
+}
+
+.aside-buttons li{
+    margin-bottom: 5px;
+}
